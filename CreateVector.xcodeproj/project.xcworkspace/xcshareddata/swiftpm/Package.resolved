@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "similarity-search-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ZachNagengast/similarity-search-kit.git",
+      "state" : {
+        "revision" : "18b52c6a2eb4600e87860c8da68b4984457a3712",
+        "version" : "0.0.10"
+      }
+    }
+  ],
+  "version" : 2
+}
